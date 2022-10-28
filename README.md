@@ -1,12 +1,12 @@
 # Hi!, I'm Edu
-- 📚 My languages are...
-| Language | Level |
-| :--- | :---: |
-| 🇪🇸 Spanish | Native |
-| Catalan | Native |
-| 🇬🇧 English | High |
-| 🇩🇪 German | Medium-Low|
-| 🇫🇷 French | Low |
+### 📚 My languages are...
+| Language | Level  |
+|----------|:--------:|
+| 🇪🇸 Spanish  | Native |
+| Catalan  | Native |
+| 🇬🇧 English  | High   |
+| 🇫🇷French   | Low    |
+| 🇩🇪 German   | Low    |
 
 - ☕️ My Programming languages are ...
   - Java
