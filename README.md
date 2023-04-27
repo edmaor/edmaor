@@ -1,16 +1,8 @@
 # Hi!, I'm Edu
-I'm a *young* programmer, mostly self-taught and with eager to learn new programming skills 😊.<br>
+I'm a *junior* software developer, mostly self-taught and with eager to learn new programming skills 😊.<br>
 📫 : edmaor128@gmail.com
 
-### 📚 My languages are...
-| Language | Level  |
-|----------|:--------:|
-| 🇪🇸 Spanish  | Native |
-| Catalan  | Native |
-| 🇬🇧 English  | High   |
-| 🇫🇷French   | Low    |
-| 🇩🇪 German   | Low    |
-
+---
 ### ☕️ My Programming languages are ...
 | Language | Years |
 |----------|:--------:|
@@ -24,13 +16,20 @@ I'm a *young* programmer, mostly self-taught and with eager to learn new program
 | Html | |
 | Css | |
 
----
 
-- Some other stuff you might find interresting ...
-  - Vue & Vuetify (JS)
-  - SpringTools (Java)
+### 🧮 Frameworks && Libraries
+Java
+ - SpringTools
 
-<!---
-edmaor/edmaor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+JavaScript
+ - React js
+ - Vue js
+
+### 📚 My languages are...
+| Language | Level  |
+|----------|:--------:|
+| 🇪🇸 Spanish  | Native |
+| Catalan  | Native |
+| 🇬🇧 English  | High   |
+| 🇫🇷French   | Low    |
+| 🇩🇪 German   | Low    |
