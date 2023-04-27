@@ -3,33 +3,28 @@ I'm a *junior* software developer, mostly self-taught and with eager to learn ne
 📫 : edmaor128@gmail.com
 
 ---
-### ☕️ My Programming languages are ...
-| Language | Years |
-|----------|:--------:|
-| Java | 2 |
-|Python | 1|
+### ☕️ Programming && Web Languages
+> Java
+> Python
 
-### 🕸️ My Web languages are ...
-| Language | Level  |
-|----------|:--------:|
-| JavaScript| |
-| Html | |
-| Css | |
+> JavaScript
+> HTML
+> CSS
 
 
 ### 🧮 Frameworks && Libraries
-Java
- - SpringTools
+> Java
+>  - SpringTools
 
-JavaScript
- - React js
- - Vue js
+> JavaScript
+>  - React js
+>  - Vue js
 
-### 📚 My languages are...
-| Language | Level  |
-|----------|:--------:|
-| 🇪🇸 Spanish  | Native |
-| Catalan  | Native |
-| 🇬🇧 English  | High   |
-| 🇫🇷French   | Low    |
-| 🇩🇪 German   | Low    |
+### 📚 Idioms
+> | Language | Level  |
+> |----------|:--------:|
+> | 🇪🇸 Spanish  | Native |
+> | Catalan  | Native |
+> | 🇬🇧 English  | High   |
+> | 🇫🇷French   | Low    |
+> | 🇩🇪 German   | Low    |
