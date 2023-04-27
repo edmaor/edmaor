@@ -4,12 +4,15 @@ I'm a *junior* software developer, mostly self-taught and with eager to learn ne
 
 ---
 ### ☕️ Programming && Web Languages
->  - Java
->  - Python
+>  Java
+>  
+>  Python
 
->  - JavaScript
->  - HTML
->  - CSS
+>  JavaScript
+>  
+>  HTML
+>  
+>  CSS
 
 
 ### 🧮 Frameworks && Libraries
